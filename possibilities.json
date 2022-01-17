@@ -1,0 +1,6 @@
+{"intents" : [
+	{"greet" : ["hello", "hey", "hi", "ciao"],
+	 "swear" :["fill", "the", "censored", "words", "yourself"]
+    
+	}
+]}
